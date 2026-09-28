@@ -27,6 +27,13 @@ Je crée des applications iOS et leur backend cloud, comme <b><a href="https://a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D96F6,100:0A66C2&height=3&width=760" alt=""/>
 
+### 📊 Statistiques GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=yassineeljal&show_icons=true&hide_border=true&bg_color=00000000&title_color=0D96F6&icon_color=0D96F6&text_color=c9d1d9&count_private=true" alt="Statistiques GitHub" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassineeljal&layout=compact&hide_border=true&bg_color=00000000&title_color=0D96F6&text_color=c9d1d9&langs_count=8" alt="Langages les plus utilisés" height="165"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D96F6,100:0A66C2&height=3&width=760" alt=""/>
+
 <br/>
 
 <picture>
