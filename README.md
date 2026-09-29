@@ -35,29 +35,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D96F6,100:0A66C2&height=3&width=760" alt=""/>
 
-### 📈 GitHub Stats
+### 📱 Featured Project
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.vercel.app/graph?username=yassineeljal&bg_color=0D1117&color=8B949E&line=0D96F6&point=0A66C2&area_color=0A66C2&area=true&hide_border=true&radius=12">
-  <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.vercel.app/graph?username=yassineeljal&bg_color=FFFFFF&color=475569&line=0A66C2&point=0D96F6&area_color=E6F2FF&area=true&hide_border=true&radius=12">
-  <img alt="GitHub contribution graph" src="https://activity-graph.vercel.app/graph?username=yassineeljal&bg_color=0D1117&color=8B949E&line=0D96F6&point=0A66C2&area_color=0A66C2&area=true&hide_border=true&radius=12" width="100%"/>
-</picture>
+<a href="https://apps.apple.com/ca/app/trayva-ai-fitness-coach/id6768809797">
+  <img src="https://img.shields.io/badge/Trayva-AI%20Fitness%20Coach-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Trayva on the App Store"/>
+</a>
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=yassineeljal&hide=stars,issues,hours,grade,week,avg,active_day,trend&bg=0D1117&title_color=0D96F6&text=C9D1D9&icon_color=0A66C2&border_color=0D96F6">
-  <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=yassineeljal&hide=stars,issues,hours,grade,week,avg,active_day,trend&bg=FFFFFF&title_color=0A66C2&text=24292F&icon_color=0D96F6&border_color=E2E8F0">
-  <img alt="GitHub Stats" src="https://ghstats.dev/api/card?username=yassineeljal&hide=stars,issues,hours,grade,week,avg,active_day,trend&bg=0D1117&title_color=0D96F6&text=C9D1D9&icon_color=0A66C2&border_color=0D96F6"/>
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yassineeljal&theme=dark&background=0D1117&stroke=0D96F6&ring=0A66C2&fire=0D96F6&currStreakNum=0D96F6&currStreakLabel=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=yassineeljal&theme=light&background=FFFFFF&stroke=E2E8F0&ring=0A66C2&fire=0D96F6&currStreakNum=0A66C2&currStreakLabel=475569&sideNums=475569&sideLabels=475569&dates=94A3B8">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=yassineeljal&theme=dark&background=0D1117&stroke=0D96F6&ring=0A66C2&fire=0D96F6&currStreakNum=0D96F6&currStreakLabel=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E"/>
-</picture>
+An iOS strength-training app with an AI coach, built end-to-end — from the SwiftUI client to the cloud backend. Published and live on the App Store.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D96F6,100:0A66C2&height=3&width=760" alt=""/>
 
