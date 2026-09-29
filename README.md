@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D96F6,100:0A66C2&height=210&section=header&text=Yassine%20El%20Jal&fontSize=52&fontColor=ffffff&fontAlignY=32&desc=iOS%20Developer%20%E2%80%A2%20Cloud%20%26%20Backend%20%E2%80%A2%20%C3%89TS%20Montreal&descAlignY=54&descSize=18&descAlign=50&animation=fadeIn" alt="Yassine El Jal"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D96F6,100:0A66C2&height=210&section=header&text=Yassine%20El%20Jal&fontSize=52&fontColor=ffffff&fontAlignY=32&desc=iOS%20Developer%20%E2%80%A2%20Cloud%20%2B%20Backend%20%E2%80%A2%20%C3%89TS%20Montreal&descAlignY=54&descSize=18&descAlign=50&animation=fadeIn" alt="Yassine El Jal"/>
 
 <a href="https://www.linkedin.com/in/yassine-el-jal-6718b42b6/"><img src="https://img.shields.io/badge/LinkedIn-Yassine_El_Jal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:yassineeljal0@gmail.com"><img src="https://img.shields.io/badge/Email-yassineeljal0%40gmail.com-0D96F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -27,40 +27,11 @@
 
 **Languages**
 
-![Swift](https://img.shields.io/badge/Swift-0D96F6?style=flat-square&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A66C2?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D96F6?style=flat-square&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-0A66C2?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-0D96F6?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0A66C2?style=flat-square&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=swift,ts,js,java,cs,python,html,css&theme=dark&perline=8" alt="Languages"/>
 
-**Mobile & iOS**
+**Frameworks, Platforms & Tools**
 
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-0A66C2?style=flat-square&logo=xcode&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-0D96F6?style=flat-square&logo=apple&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0A66C2?style=flat-square&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-0D96F6?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0A66C2?style=flat-square&logo=css3&logoColor=white)
-
-**Backend & Databases**
-
-![Spring](https://img.shields.io/badge/Spring-0D96F6?style=flat-square&logo=spring&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-0A66C2?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D96F6?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-0A66C2?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D96F6?style=flat-square&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-0A66C2?style=flat-square&logo=mariadb&logoColor=white)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-0D96F6?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-0A66C2?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0D96F6?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0A66C2?style=flat-square&logo=linux&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,spring,apple,supabase,postgres,sqlite,mongodb,docker,aws,git,linux&theme=dark&perline=11" alt="Frameworks, platforms and tools"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D96F6,100:0A66C2&height=3&width=760" alt=""/>
 
