@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+  <title id="title">Yassine El Jal — IT Engineering student</title>
+  <desc id="desc">ÉTS, Montréal. Building across mobile, backend and cloud.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#168bff"/>
+      <stop offset="1" stop-color="#78baff"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="280" rx="20" fill="#0d1117"/>
+  <rect x="40" y="42" width="28" height="4" rx="2" fill="url(#accent)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="40" y="82" fill="#9caec4" font-size="14" font-weight="600" letter-spacing="2">IT ENGINEERING · ÉTS MONTRÉAL</text>
+    <text x="38" y="148" fill="#f0f6fc" font-size="56" font-weight="700" letter-spacing="-2">Yassine El Jal</text>
+    <text x="40" y="191" fill="#9caec4" font-size="23">Building across mobile, backend and cloud.</text>
+    <text x="40" y="239" fill="#9caec4" font-size="14" letter-spacing="1">ENGINEERING MINDSET. PRODUCT FOCUS.</text>
+  </g>
+  <g fill="none" stroke="#263549" stroke-width="1.5">
+    <circle cx="815" cy="140" r="88"/>
+    <circle cx="815" cy="140" r="62"/>
+    <circle cx="815" cy="140" r="36"/>
+  </g>
+  <circle cx="815" cy="140" r="10" fill="url(#accent)"/>
+  <circle cx="877" cy="140" r="5" fill="#168bff"/>
+  <circle cx="815" cy="52" r="4" fill="#78baff"/>
+</svg>
